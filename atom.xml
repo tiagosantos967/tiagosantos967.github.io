@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tiago Santos</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-02-15T18:25:41.176Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Tiago Santos</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About Me</title>
+    <link href="http://yoursite.com/about/"/>
+    <id>http://yoursite.com/about/</id>
+    <published>2020-02-15T18:25:41.176Z</published>
+    <updated>2020-02-15T18:25:41.176Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Contact-information"><a href="#Contact-information" class="headerlink" title="Contact information"></a>Contact information</h2><p>You can contact me at tiago.s.1189(at)gmail.com.</p><h2 id="BIO"><a href="#BIO" class="headerlink" title="BIO"></a>BIO</h2><p>My full name is Tiago Manuel Andrade dos Santos. I was born in Portugal in 1992, where I lived for 24 years. When I finished my masters in Electrical Engineering I moved to the Netherlands, where I have been living since then.  </p><p><img src="/imgs/portugal/lisbon/padrao_conhecimentos_slim.jpg" alt="Lisbon Portugal" title="Lisbon Portugal"></p><p><img src="/imgs/netherlands/leiden/leiden_canal_slim.jpg" alt="Leiden Netherlands" title="Leiden Netherlands"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Contact-information&quot;&gt;&lt;a href=&quot;#Contact-information&quot; class=&quot;headerlink&quot; title=&quot;Contact information&quot;&gt;&lt;/a&gt;Contact information&lt;/h2&gt;&lt;p&gt;Yo
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/decos/"/>
+    <id>http://yoursite.com/decos/</id>
+    <published>2020-02-15T18:25:41.176Z</published>
+    <updated>2020-02-15T18:25:41.176Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/imgs/decos/decos_logo_gray.png" alt="alt text"></p><p>At Decos we believe in two things. In the future, information will be available to everyone instantly at almost no cost; and robots will be part of our every day lives.</p><p>My tasks, as a full stack engineer, range from frontend:</p><ul><li>Developing code for the robots (<a href="http://www.ros.org" target="_blank" rel="external">ROS</a> and Android)</li><li>Real time dashboards (<a href="https://github.com/diegohaz/arc" target="_blank" rel="external">React</a> with Redux and Sagas)   </li></ul><p>To backend:   </p><ul><li>Cloud Server (Nodejs using the opensource framework <a href="https://github.com/feathersjs/feathers" target="_blank" rel="external">Feathers</a>)</li><li>Integrations with several platforms like visitor registration sysments, Skype for Business, SMS and email messaging.   </li></ul><p>We also use state of the art technologies, such as continuous delivery and deployment, containers, automated testing and Load Balancing using Microsoft’s Azure Cloud. We also use SCRUM and Agile development to make our team more productive and deliver value as quickly as possible to our clients.    </p><p><img src="/imgs/decos/team_slim.jpg" alt="alt text" title="Decos Robotics Team"></p><p>Our team is currently focused on developing two robot platforms:</p><table><thead><tr><th>ECO (Doorman)</th><th>Pepper (Receptionist)</th></tr></thead><tbody><tr><td><iframe width="100%" src="https://www.youtube.com/embed/12fP-h06O14" frameborder="0" allowfullscreen></iframe></td><td><iframe width="100%" src="https://www.youtube.com/embed/0sEi5cvjy34" frameborder="0" allowfullscreen></iframe></td></tr></tbody></table><p>Both currently work full-time inside our office, and are treated as coleagues by everyone that works at Decos.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/imgs/decos/decos_logo_gray.png&quot; alt=&quot;alt text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;At Decos we believe in two things. In the future, information will be a
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
